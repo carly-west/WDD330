@@ -259,6 +259,10 @@ select {
   text-transform: none;
 }
 
+#footertext {
+  font-size: 22px;
+}
+
 [role="button"] {
   cursor: pointer;
 }
